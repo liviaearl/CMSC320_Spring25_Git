@@ -6,3 +6,7 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be applied to biology research to understand how a new drug tests compared to an existing one.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging preserves the history of both branches while rebasing rewrites one of the branch's history.
+
